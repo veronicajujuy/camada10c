@@ -1,3 +1,4 @@
 caracteristicas :
 1. tiene la llanta azul
 2. tiene los rayos rosados y naranjas
+3 . otro comentario
